@@ -31,6 +31,4 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlisherKonratbaev&show_icons=true" />
 </details>
 
-[instagram]: https://www.instagram.com/alisher19.29/
-[telegram]: https://t.me/alisher19_29
-[gmail]: ritemaster66@gmail.com
+
