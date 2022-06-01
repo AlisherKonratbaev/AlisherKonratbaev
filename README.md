@@ -5,7 +5,7 @@
 - 🥅 I am constantly learning new things
 - ⚡ I like to go to the gym and play football
 
-<br />
+
 ### Connect with me:
 
 [<img align="left" alt="Alisher | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
